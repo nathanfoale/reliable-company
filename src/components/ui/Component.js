@@ -44,7 +44,7 @@ export default function BusOperationsComponent() {
             variants={fadeIn}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
-            Reliable Company is transforming the bus operations industry with our cutting-edge management software. We automate and optimize cleaning, refueling, and fleet management tasks to ensure efficient, safe, and reliable public transport services.
+            Reliable Company is transforming the bus operations industry with our cutting-edge management software. We automate and optimise cleaning, refueling, and fleet management tasks to ensure efficient, safe, and reliable public transport services.
           </motion.p>
           <motion.div
             className="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6"
