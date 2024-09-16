@@ -12,9 +12,9 @@ export default function BusOperationsComponent() {
   };
 
   const features = [
-    { icon: <Bus className="h-6 w-6" />, text: "Real-time tracking" },
-    { icon: <Droplet className="h-6 w-6" />, text: "Automated refueling" },
-    { icon: <Brush className="h-6 w-6" />, text: "Optimized cleaning" },
+    { icon: <Bus className="h-6 w-6" />, text: "Real-time Bus tracking" },
+    { icon: <Droplet className="h-6 w-6" />, text: "Inventory Management" },
+    { icon: <Brush className="h-6 w-6" />, text: "Optimised cleaning" },
     { icon: <Clock className="h-6 w-6" />, text: "Efficient scheduling" },
     { icon: <AlertTriangle className="h-6 w-6" />, text: "Incident reporting" },
     { icon: <BarChart2 className="h-6 w-6" />, text: "Detailed analytics" }
@@ -84,7 +84,7 @@ export default function BusOperationsComponent() {
               <li>Digital Transformation in Public Transport: Estimated to be a $15 billion market globally.</li>
             </ul>
             <p className="text-gray-300">
-              <strong>Target Audience:</strong> Public transport providers investing in smart, sustainable, and efficient operational solutions, including public transit authorities, private bus operators, and corporate shuttle services.
+              <strong>Target Audience:</strong> Public transport providers & small businesses investing in smart and efficient operational solutions, including public transit authorities and private bus operators and urban transport services.
             </p>
           </motion.div>
         </CardContent>
